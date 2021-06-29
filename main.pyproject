@@ -1,0 +1,3 @@
+{
+    "files": ["main.py","qml/controls/pageThumbNail.qml","qml/pages/pdfEditorPage.qml","qml/controls/ToggleBtn.qml","qml/controls/searchBar.qml","json/folders.json","js/createThumbnail.js","qml/controls/LeftMenuBtn.qml","qml/pages/wordEditorPage.qml","qml/pages/homePage.qml","qml/controls/ResourceBtn.qml","qml/main.qml","qml/controls/TopBarBtn.qml","qml/pages/settingsPage.qml","main.qml","json/dataloader.mjs","qml/pages/resourcePage.qml","qml/pages/pwdDbPage.qml"]
+}
